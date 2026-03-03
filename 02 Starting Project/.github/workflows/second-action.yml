@@ -1,7 +1,7 @@
 name: Test Project
 on: push
 jobs:
-  first-job:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: Print greeting
